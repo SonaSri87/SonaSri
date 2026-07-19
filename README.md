@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="YOUR_BANNER_LINK" alt="Banner" width="100%">
+</p>
 SonaSri
 
 My GitHub profile
