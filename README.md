@@ -56,5 +56,9 @@ Cs fundamentals
 - DBMS
 - Operating Systems
 - Computer Networks
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonasri87&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonasri87&layout=compact&theme=tokyonight)
 ⭐ Thanks for visiting my profile!
