@@ -66,9 +66,95 @@ Cs fundamentals
 - DBMS
 - Operating Systems
 - Computer Networks
+- ## 🚀 Featured Projects
+
+### 🧠 Concept Dependency Visualizer
+
+An interactive web application that helps learners understand concept prerequisites through dynamic dependency graphs and personalized learning paths. It simplifies complex learning journeys by visually connecting concepts and tracking progress.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+**Key Features**
+- 🌐 Interactive concept dependency graph
+- 🗺️ Learning roadmap generation
+- 📊 Progress tracking
+- 🔍 Search and filter concepts
+- 📄 Certificate generation
+- 📱 Responsive and user-friendly interface
+
+🔗 Repository: https://github.com/sonasri87/Concept-Dependency-Visualizer
+
+---
+
+### 🏥 Health Navigator
+
+A comprehensive healthcare web application that enables users to access healthcare services, explore medical facilities, discover health campaigns, manage health records, and receive personalized healthcare support through an intuitive dashboard.
+
+**Tech Stack:** HTML, CSS, JavaScript, Flask, MySQL
+
+**Key Features**
+- 🏥 Hospital and medical facility directory
+- 👨‍⚕️ Doctor information and availability
+- 📢 Health campaign updates
+- 📁 Digital health records management
+- 🤖 AI-powered health assistant
+- 🔔 Notifications and reminders
+- 👤 User profile management
+- 📍 Location-based healthcare services
+
+---
+
+### 📱 Smart QR Health System
+
+A secure Android healthcare application that generates a unique QR code for every patient, allowing authorized healthcare professionals to instantly access medical records during emergencies and routine consultations. The system improves healthcare efficiency while ensuring secure patient data management.
+
+**Tech Stack:** Android Studio, Java, XML, Firebase
+
+**Key Features**
+- 🔳 Unique QR code generation for every patient
+- 📷 QR code scanning for instant patient identification
+- 🏥 Digital medical record management
+- 👨‍⚕️ Secure doctor and patient authentication
+- 🚑 Quick emergency access to patient information
+- 🔒 Secure cloud-based health record storage
+- 📱 User-friendly Android application
+- ⚡ Fast and reliable retrieval of patient data
+
+---
+
+### 🏗️ System Design Playground
+
+A platform demonstrating High-Level Design (HLD) and Low-Level Design (LLD) concepts through real-world software architecture examples. It helps developers understand scalable system design, design patterns, and software architecture principles.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+**Key Features**
+- 🏛️ High-Level Design (HLD) case studies
+- 📦 Low-Level Design (LLD) examples
+- 🎨 Design Patterns implementation
+- 📊 UML Class Diagrams
+- 🔗 API workflow visualization
+- ☁️ Scalable system architecture examples
+- 📚 Real-world software engineering case studies
+- 📝 Architecture documentation
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonasri87&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonasri87&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonasri87&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonasri87&theme=tokyo-night)
+
+
+
+## 📫 Connect with Me
+
+- 📧 Email: gummulasonasri@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gummulasonasri
+- 💻 GitHub: https://github.com/sonasri87
 ⭐ Thanks for visiting my profile!
