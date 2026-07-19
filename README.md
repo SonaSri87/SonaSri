@@ -136,18 +136,6 @@ A platform demonstrating High-Level Design (HLD) and Low-Level Design (LLD) conc
 - ☁️ Scalable system architecture examples
 - 📚 Real-world software engineering case studies
 - 📝 Architecture documentation
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonasri87&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonasri87&layout=compact&theme=tokyonight)
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sonasri87&theme=tokyonight)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonasri87&theme=tokyo-night)
 
 
 
