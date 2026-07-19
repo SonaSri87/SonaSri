@@ -82,8 +82,7 @@ An interactive web application that helps learners understand concept prerequisi
 - 📄 Certificate generation
 - 📱 Responsive and user-friendly interface
 
-🔗 Repository: https://github.com/sonasri87/Concept-Dependency-Visualizer
-
+🔗 Repository:[Myproject-Concept-Dependency-Visualizer](https://github.com/sonasri87/Myproject-Concept-Dependency-Visualizer)
 ---
 
 ### 🏥 Health Navigator
